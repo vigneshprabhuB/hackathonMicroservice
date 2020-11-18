@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="banking-transactions/.mvn/wrapper"/>
+	<classpathentry kind="src" path="banking-transactions/src/main/java"/>
+	<classpathentry kind="src" path="banking-transactions/src/test/java"/>
+	<classpathentry kind="output" path="banking-transactions/target/classes"/>
+</classpath>
